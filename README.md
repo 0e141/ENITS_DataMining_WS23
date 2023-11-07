@@ -53,3 +53,11 @@ Course Materials of the Data Mining for Security Applications Class
 
 ### Assignements
 * [Assignment 4.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS23/blob/main/Week_4/Assignment_4.1_Clustering.ipynb)
+
+## Week 5
+
+### Lecture
+* [Statistics II](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS23/blob/main/Week_5/05_Statistics_Part_II.ipynb)
+
+### Lab + Assignment
+* [Lab+Assignment 5.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS23/blob/main/Week_5/LabAndAssignment_FraudDetection.ipynb)
