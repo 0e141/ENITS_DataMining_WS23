@@ -116,4 +116,9 @@ Course Materials of the Data Mining for Security Applications Class
 
 ### Aufgabe
 * [Aufgabe 12](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS23/blob/main/Week_12/Assignment_12.ipynb)
-  
+
+## Week 13
+
+### Examples
+* [DASK](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS23/blob/main/Week_13/dask_intro.ipynb)
+* [Rapids](https://colab.research.google.com/github/keuperj/ENITS_DataMining_WS23/blob/main/Week_13/Lecture_rapids_colab_cuML_demo.ipynb)
